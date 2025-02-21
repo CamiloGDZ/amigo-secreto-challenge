@@ -60,9 +60,6 @@ function sortearAmigo(){
 
     console.log ('amigo secreto sorteado:', amigoSecreto);
 
-    /final del challenge/
-
-
-
+    /fin del challenge/
 
 }
